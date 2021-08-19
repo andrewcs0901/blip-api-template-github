@@ -1,0 +1,6 @@
+
+Api/.vs
+Api/*/bin
+*.cache
+*.pdb
+Api/*/obj/Debug
